@@ -5,7 +5,7 @@ sections:
     title: EXCELLENCE IN FLEXIBLE PACKAGING
     subtitle: Serving the flexible packaging industry for over 35 years
     actions:
-      - label: ''
+      - label: Con
         url: /features
         style: primary
       - label: Contact Us
