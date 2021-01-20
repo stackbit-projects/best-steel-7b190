@@ -3,9 +3,7 @@ title: Home
 sections:
   - type: hero_section
     title: EXCELLENCE IN FLEXIBLE PACKAGING
-    subtitle: >-
-      Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nullam a metus
-      quis lorem malesuada luctus.
+    subtitle: Serving the flexible packaging industry for over 35 years
     actions:
       - label: Learn More
         url: /features
