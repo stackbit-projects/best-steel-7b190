@@ -6,9 +6,6 @@ sections:
     subtitle: Serving the flexible packaging industry for over 35 years
     actions:
       - label: Contact Us
-        url: /features
-        style: primary
-      - label: Contact Us
         url: /contact
         style: secondary
     align: left
